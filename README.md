@@ -1,1 +1,3 @@
-# Sentiment-Analysis-Web-App
+Sentiment-Analysis-Web-App
+
+Developed a Sentiment Analysis Web Application using Streamlit and Hugging Face Transformers to classify text as positive or negative. Integrated a fine-tuned DistilBERT model for natural language understanding, leveraging PyTorch for deep learning and optimizing inference with GPU acceleration. Designed an interactive user interface that allows real-time text input and analysis, providing an intuitive and efficient way to assess sentiment. Implemented tokenization, softmax probability calculations, and error handling to ensure robustness. This project demonstrates expertise in NLP, deep learning, and web-based AI deployment.
